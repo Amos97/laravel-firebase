@@ -19,7 +19,7 @@ This package includes:
 
 Install via composer
 ```bash
-composer require plokko/laravel-firebase
+composer require amos97/laravel-firebase
 ```
 The package will be auto registered in laravel >=5.5;
 **If you use laravel <5.5 follow the next two steps**
