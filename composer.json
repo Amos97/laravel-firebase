@@ -1,5 +1,5 @@
 {
-  "name": "plokko/laravel-firebase",
+  "name": "amos97/laravel-firebase",
   "description": "Laravel Firebase integration",
   "license": "MIT",
   "keywords": [
@@ -11,7 +11,7 @@
   "type": "library",
   "require": {
     "php": ">=5.6",
-    "plokko/firebase-php":"^0.1.1",
+    "amos97/firebase-php":"^0.1.1",
     "illuminate/support": ">=5.4.0"
   },
   "require-dev": {
